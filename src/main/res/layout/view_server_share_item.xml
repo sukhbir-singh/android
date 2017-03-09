@@ -19,9 +19,9 @@
   -->
 
 <TextView
-       xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:android="http://schemas.android.com/apk/res/android"
 	android:id="@+id/text"
-       android:maxLines="1"
+  android:maxLines="1"
 	android:textSize="@dimen/text_medium"
 	android:background="?android:attr/activatedBackgroundIndicator"
 	android:gravity="center_vertical"
